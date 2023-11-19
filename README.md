@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nayohana
 - 👀 I’m interested in ...penguin🐧
 - 🌱 I’m currently learning ...PHP/Python/HTML/CSS
-- 💙 I'm beginner engineer and Love coding!
+- 💙 I'm beginner and Love coding!
 - 📚 Language...Japanese/Korean/English
 - 📖 qualification...Japanese teaching licence
 <!---
