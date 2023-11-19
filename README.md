@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Nayohana
+  👋 Hi, I’m Nana
+  
 - 👀 I’m interested in ...penguin🐧
 - 🌱 I’m currently learning ...PHP/Python/HTML/CSS
 - 💙 I'm beginner and Love coding!
