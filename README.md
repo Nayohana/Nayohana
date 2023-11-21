@@ -21,8 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="left">
-  <img alt="Visitor Stats" src="https://widgetbite.com/stats/kenjiwilkins"/>  
+  <img alt="Visitor Stats" src="https://widgetbite.com/stats/nayohana"/>  
 </div>
 
 
-https://jp.indeed.com/q-%E6%B5%B7%E5%A4%96%E5%9C%A8%E4%BD%8F-%E6%A5%AD%E5%8B%99%E5%A7%94%E8%A8%97-%E6%B1%82%E4%BA%BA.html?vjk=ca97bd40ea3cd098
