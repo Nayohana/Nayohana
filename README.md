@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="left">
-  <img alt="Visitor Stats" src="https://widgetbite.com/stats/nayohana"/>  
+  <img alt="contribution Stats" src="https://widgetbite.com/stats/nayohana"/>  
 </div>
 
 
