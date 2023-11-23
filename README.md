@@ -9,8 +9,30 @@
 Nayohana/Nayohana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+name: GitHub-Profile-3D-Contrib
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayohana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          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 ${{ secrets.GITHUB_TOKEN }}
+         Nayohana: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
+          git push
 
 
 <p align="left">
