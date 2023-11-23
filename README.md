@@ -22,10 +22,10 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: Nayohana/README.md
         env:
-          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 ${{ secrets.GITHUB_TOKEN }}
-         Nayohana: ${{ github.repository_owner }}
+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: ${{ secrets.GITHUB_TOKEN }}
+          Nayohana: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
@@ -33,7 +33,6 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
-
 
 <p align="left">
 </p>
