@@ -9,33 +9,30 @@
 Nayohana/Nayohana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-name: Generate GitHub Profile 3D Contrib
+name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:
+  schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate GitHub Profile 3D Contrib
+    name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - name: Generate 3D Contrib
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Nayohana
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "Generate GitHub Profile 3D Contrib"
+          git commit -m "generated"
           git push
-
 
 <p align="left">
 </p>
