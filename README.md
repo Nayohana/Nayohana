@@ -1,6 +1,6 @@
   👋 Hi there!
   
- 👀 I’m interested in ...penguin🐧🐧
+ 👀 I love ...penguin🐧🐧
  🌱 I’m currently learning ...PHP/Python/HTML/CSS
  💙 I'm beginner and Love coding!
  📚 Language...Japanese/Korean/English
