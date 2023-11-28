@@ -12,6 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 </p>
+# My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayohana&langs_count=8&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Nayohana/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayohana&langs_count=8&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Nayohana/github-readme-stats)
 
