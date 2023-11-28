@@ -1,6 +1,4 @@
- <?php
- echo "👋 Hi there!";
-  ?>
+ 👋 Hi there!"
  -👀 I love ...penguin🐧🐧
  -🌱 I’m currently learning ...PHP/Python/HTML/CSS
  -💙 I'm beginner and Love coding!
