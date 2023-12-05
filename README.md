@@ -30,4 +30,3 @@ You can click the Preview link to take a look at your changes.
 
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=Nayohana&bg_color=1F222E&color=F8D866&line=F85D7F&pointFFFFFF&hide_border=true)
-![activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=Nayohana&bg_color=1F222E&color=F8D866&line=F85D7F&pointFFFFFF&hide_border=true)
