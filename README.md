@@ -1,6 +1,6 @@
 👋 Hi there!
-- 👀 I love ...penguins 🐧🐧
-- 🌱 I’m currently learning ...PHP/Python/HTML/CSS
+- 👀 I love ...penguins and making games🐧🐧
+- 🌱 I’m currently learning ...PHP/Python/HTML/CSS 
 - 💙 I'm a beginner and Love coding!
 - 📚 Languages...Japanese/Korean/English
 - 📖 Qualification...Japanese teaching license
